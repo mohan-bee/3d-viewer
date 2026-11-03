@@ -1,0 +1,29 @@
+{
+  "fixture": "Gimbal One 0.2.0 / P02_UpperJaw",
+  "viewerDirectory": "/Users/mohan/Documents/Codex/2026-10-19/he/work/3d-viewer-gltf-export-fix",
+  "exportPath": "MixedStlModel + useGlobalDownloadGltf",
+  "sourceSizeMm": [
+    128,
+    15,
+    70
+  ],
+  "exportedSizeMeters": [
+    128,
+    15,
+    70
+  ],
+  "expectedSizeMeters": [
+    0.128,
+    0.015,
+    0.07
+  ],
+  "rootScales": [],
+  "nodeMatrices": [],
+  "sourceRootScaleAfterExport": [
+    1,
+    1,
+    1
+  ],
+  "vertexCount": 4524,
+  "validationLimit": "Headless real viewer loaders and export hook; standalone real jaw from current gimbal, no browser screenshot"
+}

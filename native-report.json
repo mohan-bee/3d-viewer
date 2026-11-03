@@ -1,0 +1,42 @@
+{
+  "fixture": "Exact gimbal P02_UpperJaw OBJ",
+  "baselineCommit": "5322ee4e10925b5b2ebf4d3ed4c0488d7b374e78",
+  "baselineDefaultMatchesCurrentDefault": true,
+  "baselineSha256": "c3fdcdc826383b298af6054a17a5b465e0a06aaaad1b45e4fcad2216add678f1",
+  "defaultSha256": "c3fdcdc826383b298af6054a17a5b465e0a06aaaad1b45e4fcad2216add678f1",
+  "before": {
+    "outputUnits": "mm (legacy default)",
+    "bytes": 164288,
+    "bounds": {
+      "min": {
+        "x": -64,
+        "y": 32,
+        "z": -35
+      },
+      "max": {
+        "x": 64,
+        "y": 47,
+        "z": 35
+      }
+    }
+  },
+  "after": {
+    "outputUnits": "m (native exporter option)",
+    "bytes": 164332,
+    "bounds": {
+      "min": {
+        "x": -0.06400000303983688,
+        "y": 0.03200000151991844,
+        "z": -0.035000001662410796
+      },
+      "max": {
+        "x": 0.06400000303983688,
+        "y": 0.04700000223238021,
+        "z": 0.035000001662410796
+      }
+    }
+  },
+  "meshDefinitionsUnchanged": true,
+  "materialsUnchanged": true,
+  "binaryBuffersEqual": true
+}
